@@ -39,6 +39,10 @@
     - Microfacet Material 
     - Environment Light 
     - Depth of Field
+- Final Project: From point to cloud
+  -  Ball-pivoting algorithm 
+  -  Poisson surface reconstruction
+
 ## CSC 3150
 - HW1: Process management
   - Task 1: Fork and signal detection
