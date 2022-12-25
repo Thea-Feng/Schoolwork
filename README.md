@@ -1,10 +1,10 @@
 # Schoolwork
-## CSC3050
+## CSC3050  Computer Architecture
 - HW1: MIPS assembler
 - HW2: MIPS simulator
 - HW3: Arithmetic and Logic Unit (ALU) implementation
 - HW4: A 5-stage pipelined CPU
-## CSC4140 (same to CS 184 at UCB)
+## CSC4140 (same to CS 184 at UCB)  Computer Graphics
 - HW1: Basics operations of vectors and matrix
     - Basic vector operations
     - Basic matrix operations
@@ -43,7 +43,7 @@
   -  Ball-pivoting algorithm 
   -  Poisson surface reconstruction
 
-## CSC 3150
+## CSC 3150  Operating System
 - HW1: Process management
   - Task 1: Fork and signal detection
   - Task 2: Kernel implementation of fork, wait, execve..
@@ -53,8 +53,21 @@
   - Bonus: http request schedule
 - HW3: Implement OS memory management
 - HW4: Implement OS file system
-## CSC 4005
+## CSC 4005  Parallism Computing
 - HW1: odd even parallel sort (MPI)
 - HW2: mandelbrot set computation (MPI, Pthread)
 - HW3: N-body simulastion (MPI, Pthread, CUDA, OpenmMP, OpenMP + MPI)
 - HW4: heat Simulation (MPI, Pthread, CUDA, OpenmMP, OpenMP + MPI)
+### CSC 4120  Algorithm
+- Final Project: a simulation of injecting vaccine
+  - Greedy algorithm: heavy-degree, heave-subtree greedy on tree
+  - Game theory: Nash Equilibrium
+  - Extension: segment tree - heavy decomposition
+### ECE 4016  Computer Network
+- HW1: UDP test (skip)
+- HW2: Adaptive Bitrate Streaming
+  - An implementation of "Adaptation Algorithm for Adaptive Streaming over HTTP"
+- HW3: Network simulation (skip pka file)
+ ## Others 
+- GrabCut: an implementation of ""GrabCut" - Interactive Foreground Extraction using Iterated Graph Cuts"
+  - Details see: https://www.cnblogs.com/EdSheeran/p/15130096.html
