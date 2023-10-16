@@ -49,11 +49,11 @@
   - Task 2: Kernel implementation of fork, wait, execve..
   - Bouse: Implementation of linux command pstree
 - HW2: Multithread program 
-  - Task 1: simulate a frog crossing river
-  - Bonus: http request schedule
+  - Task 1: simulate a frog crossing river 
+  - Bonus: http request schedule (thread pool)
 - HW3: Implement OS memory management
 - HW4: Implement OS file system
-## CSC 4005  Parallism Computing
+## CSC 4005  Paralla Computing
 - HW1: odd even parallel sort (MPI)
 - HW2: mandelbrot set computation (MPI, Pthread)
 - HW3: N-body simulastion (MPI, Pthread, CUDA, OpenmMP, OpenMP + MPI)
